@@ -1,5 +1,6 @@
 # Mechatronics Engineering : Majoring Automation Engineering 611-XXXX
 
+Slide, Course Material, Examination Example
 - https://drive.google.com/drive/folders/1-ARFls4Nu6fc3WQNkRjMpAnO5qt92P9F?usp=sharing
 
 # 1st Year 1st Semester

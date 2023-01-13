@@ -1,0 +1,37 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value          	Device                  Package       Library                    Sheet
+
+DIS1     HD-H101		HD-H101          	HDSP-M	      display-hp                 	1
+IC1      L293D        		L293D                   DIL16         st-microelectronics 		1
+IC2	 74LS244N		74LS244N                DIL20         74xx-eu                    	1
+JPX	 PINHD-1X3		1X03          		pinhead                    			1
+JPX   	 PINHD-1X4              1X04          		pinhead                    			1
+JPX      PINHD-1X5              1X05          		pinhead                    			1
+JPX      PINHD-1X6              1X06          		pinhead                    			1
+JPX      PINHD-1X8              1X08          		pinhead                    			1
+LED1     LED3MM                 LED3MM        		adafruit                   			1
+LED2     LED3MM                 LED3MM        		adafruit                   			1
+LS1      BUZZER-PTH     	BUZZER-PTH              BUZZER-12MM   SparkFun-Electromechanical  	1
+Q1       600mA/40V      	TRANS_NPN-P2N2222A      TO-92         SparkFun-DiscreteSemi           	1
+R1       TRIM_EU-LI10           LI10          		pot                        		 	1
+R2       10K?           	R-US_0207/7             0207/7        adafruit                  	1
+R3       10K?           	R-US_0207/7             0207/7        adafruit                  	1
+R4       220?          		R-US_0207/7             0207/7        adafruit                   	1
+R5       220?           	R-US_0207/7             0207/7        adafruit                   	1
+R6       220?           	R-US_0207/7             0207/7        adafruit                   	1
+R7       220?           	R-US_0207/7             0207/7        adafruit                   	1
+R8       220?           	R-US_0207/7             0207/7        adafruit                   	1
+R9       220?           	R-US_0207/7             0207/7        adafruit                   	1
+R10      220?           	R-US_0207/7             0207/7        adafruit                   	1
+R11      220?           	R-US_0207/7             0207/7        adafruit                   	1
+R12      220?           	R-US_0207/7             0207/7        adafruit                   	1
+R13      220?           	R-US_0207/7             0207/7        adafruit                   	1
+R14      1K?            	R-US_0207/7             0207/7        adafruit                   	1
+SW1    	 SWITCH_PUSHBUTTONEVQ-PE TACT_PANA-EVQ 			      adafruit                   	1
+SW2    	 SWITCH_PUSHBUTTONEVQ-PE TACT_PANA-EVQ 			      adafruit                   	1
+LED1     RGBLED_CA-5MM  	RGBLED_CA-5MM 		LED5MMRGB     adafruit 				1
+OPH1     VT90N3         	VT90N3        		VT900         photo-elements    		1
+
